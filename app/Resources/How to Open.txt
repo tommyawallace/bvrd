@@ -1,0 +1,11 @@
+How to open {{APP_NAME}} the first time
+======================================
+
+1. Drag {{APP_NAME}} into the Applications folder.
+2. Open {{APP_NAME}} from Applications. If macOS says it can't check the app, click "Done"
+   (not "Move to Trash").
+3. Open System Settings > Privacy & Security, scroll down, and click "Open Anyway"
+   next to the {{APP_NAME}} message. Confirm with your password or Touch ID.
+
+You only need to do this once. {{APP_NAME}} then downloads its voice model (about 3.5 GB)
+and asks for Accessibility permission so its shortcut can read selected text in any app.

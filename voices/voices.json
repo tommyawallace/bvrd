@@ -1,0 +1,72 @@
+{
+  "american_female_expressive" : {
+    "description" : "Narrated by Elizabeth Klett",
+    "source" : "Elizabeth Klett, “Pride and Prejudice” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "American Female - Expressive",
+    "url" : "https://archive.org/details/prideandprejudice_1005_librivox"
+  },
+  "american_male_steady" : {
+    "description" : "Narrated by Mark F. Smith",
+    "source" : "Mark F. Smith, “The Adventures of Sherlock Holmes” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "American Male - Steady",
+    "url" : "https://archive.org/details/adventures_sherlockholmes_1007_librivox"
+  },
+  "american_male_warm_relaxed" : {
+    "description" : "Narrated by Phil Chenevert",
+    "source" : "Phil Chenevert, “Alice's Adventures Underground” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "American Male - Warm & Relaxed",
+    "url" : "https://archive.org/details/alice_underground_pc_librivox"
+  },
+  "british_female_bright_crisp" : {
+    "description" : "Narrated by Cori Samuel",
+    "source" : "Cori Samuel, “Frankenstein” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "British Female - Bright & Crisp",
+    "url" : "https://archive.org/details/frankenstein_cs_librivox"
+  },
+  "british_female_low_calm" : {
+    "description" : "Narrated by Ruth Golding",
+    "source" : "Ruth Golding, “The Adventures of Sherlock Holmes” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "British Female - Low & Calm",
+    "url" : "https://archive.org/details/adventures_sherlock_holmes_rg_librivox"
+  },
+  "british_male_deep_brisk" : {
+    "description" : "Narrated by David Clarke",
+    "source" : "David Clarke, “The Adventures of Sherlock Holmes” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "British Male - Deep & Brisk",
+    "url" : "https://archive.org/details/adventuressherlockholmes_v4_1501_librivox"
+  },
+  "british_male_dramatic" : {
+    "description" : "Narrated by Peter John Keeble",
+    "source" : "Peter John Keeble, “Dracula” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "British Male - Dramatic",
+    "url" : "https://archive.org/details/dracula_version_5_2012_librivox"
+  },
+  "female_soft_even" : {
+    "description" : "Narrated by Corrinne LePage",
+    "source" : "Corrinne LePage, “Dracula” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "Female - Soft & Even",
+    "url" : "https://archive.org/details/dracula_v4_1903_librivox"
+  },
+  "male_deep_slow" : {
+    "description" : "Narrated by Adrian Praetzellis",
+    "source" : "Adrian Praetzellis, “Treasure Island” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "Male - Deep & Slow",
+    "url" : "https://archive.org/details/treasure_island_ap_librivox"
+  },
+  "male_very_deep_quick" : {
+    "description" : "Narrated by Peter Yearsley",
+    "source" : "Peter Yearsley, “Alice's Adventures in Wonderland” (LibriVox, public domain)",
+    "starter" : true,
+    "title" : "Male - Very Deep & Quick",
+    "url" : "https://archive.org/details/alice_wonderland_0711_librivox"
+  }
+}

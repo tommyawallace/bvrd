@@ -1,0 +1,14 @@
+# Everything the bundled voice server imports, pinned. Installed with --no-deps so
+# nothing else sneaks in; tools/check_licenses.py rejects any package not on its approved list.
+mlx==0.32.4
+mlx-metal==0.32.4
+numpy==2.5.4
+scipy==1.18.1
+pyloudnorm==0.2.0
+soundfile==0.14.0
+cffi==2.1.1
+pycparser==3.12
+typing-extensions==4.16.0
+soxr==1.1.0
+tokenizers==0.23.3
+einops==0.8.2

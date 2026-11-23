@@ -1,0 +1,32 @@
+# Python environments and installers (recreated with uv)
+.bootstrap/
+.python/
+.venv/
+.venv-mlx/
+__pycache__/
+*.pyc
+
+# Downloaded AI models (Chatterbox/Whisper from Hugging Face, Kokoro from GitHub releases)
+hf-cache/
+/models/
+
+# Swift build output and release disk images
+app/.build/
+app/build/
+app/build.noindex/
+dist/
+
+# Logs and runtime state
+*.log
+.speak.pid
+.DS_Store
+
+# Signing keys and local secrets. The certificate name in the build scripts is not a secret.
+*.p12
+*.pem
+AuthKey_*.p8
+.env
+.env.*
+
+# Local notes, not part of the repo.
+archive/
