@@ -1,5 +1,9 @@
 # BVRD
 
+<p align="center">
+  <img src="app/Resources/AppIcon.png" alt="BVRD" width="280">
+</p>
+
 A Mac app that reads text out loud. Highlight text in any app and press **⌃⌥S** (default). After the first setup it works offline, and you don't need an account.
 
 The voices come from Chatterbox Turbo. You can clone a voice from a short recording (aim for at least 6 seconds). Ten starter voices are included, from public-domain LibriVox recordings. Speed can change without the pitch going up or down. Tags like `[laugh]` and `[sigh]` work. It lives in the menu bar and unloads the voice model when it's been idle.
